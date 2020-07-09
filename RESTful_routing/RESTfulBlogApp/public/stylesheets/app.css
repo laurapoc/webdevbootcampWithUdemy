@@ -1,0 +1,19 @@
+i.icon {
+font-size: 2em;
+}
+
+.container.main {
+    margin-top: 7.0em;
+}
+
+img {
+    width: 30%;
+}
+
+form div {
+   margin: 2%;
+}
+
+.ui.button {
+    margin-left: 2%;
+}
