@@ -14,6 +14,10 @@ form div {
    margin: 2%;
 }
 
-.ui.button {
+.ui.purple.button {
     margin-left: 2%;
+}
+
+#delete {
+    display: inline;
 }
